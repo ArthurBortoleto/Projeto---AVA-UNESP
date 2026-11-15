@@ -1,0 +1,16 @@
+well,strain,condition,is_blank
+A1,S1,meio_A,false
+A2,S1,meio_A,false
+A3,S1,meio_A,false
+B1,S1,meio_B,false
+B2,S1,meio_B,false
+B3,S1,meio_B,false
+C1,S2,meio_A,false
+C2,S2,meio_A,false
+C3,S2,meio_A,false
+D1,S2,meio_B,false
+D2,S2,meio_B,false
+D3,S2,meio_B,false
+H1,,meio,true
+H2,,meio,true
+H3,,meio,true

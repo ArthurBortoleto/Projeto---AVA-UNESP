@@ -1,0 +1,9 @@
+# Python 3.10 ou superior.
+# Versões mínimas estimadas a partir dos recursos usados (ex.: pandas >= 1.5 por
+# `lineterminator`, matplotlib >= 3.5 por `layout="constrained"`). O projeto foi
+# testado com versões recentes (ver README).
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+matplotlib>=3.5
+pytest>=7.0
