@@ -5,9 +5,10 @@ Linguagem: Python 3.10+
 
 1. Contexto e problema
 
-Em laboratórios de microbiologia, leitores de placa registram a densidade óptica (OD) de dezenas de poços ao longo de horas. A extração dos parâmetros de crescimento (taxa máxima, fase lag, capacidade de suporte) costuma ser feita manualmente em planilhas, poço a poço. Isso é lento, pouco reprodutível, sujeito a erro e dificulta comparar condições e cepas.
-
-Gargalo: não existe um fluxo padronizado, documentado e testado que transforme o arquivo bruto do leitor em uma tabela de parâmetros confiável.
+No laboratório, uma pesquisadora colocou várias culturas microbianas em uma placa e acompanhou cada uma ao longo do tempo. A cada leitura, o equipamento registrava a densidade óptica, e os números começavam a se acumular em uma longa tabela.
+“Como vou comparar todos esses poços e descobrir quais microrganismos cresceram mais depressa?”, ela se perguntou.
+Foi então que entrou em cena o projeto Análise automatizada de curvas de crescimento microbiano. Ele organizou as medições, levou em conta os poços sem microrganismos e ajustou modelos matemáticos para cada cultura.
+Em pouco tempo, a pesquisadora recebeu gráficos, tabelas e um relatório indicando quais culturas cresceram, quando começaram a se desenvolver e até onde chegaram. Assim, aquela montanha de números virou uma história clara sobre o crescimento de cada microrganismo.
 
 2. Objetivo
 
